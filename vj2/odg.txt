@@ -1,0 +1,4 @@
+1.Klijent se spaja na socket sa adresom i portom
+
+2. Kod ispisa „Got connection...“
+prikazuje se port s kojim se uredaj spaja na server
